@@ -23,6 +23,6 @@ int main(){
                 break;
             }
         }
-        cout<<endl;
+        cout<<endl; 
     }
 }
