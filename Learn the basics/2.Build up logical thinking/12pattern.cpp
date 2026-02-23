@@ -7,7 +7,8 @@ Print pattern like this on the cmd
 7 8 9 10
 11 12 13 14 15
 
-*/#include<iostream>
+*/
+#include<iostream>
 using namespace std;
 
 int main(){
