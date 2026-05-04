@@ -1,4 +1,4 @@
-// 2 Write a program or algorithm to find the smallest valuse of the array.
+// 2 Write a program to find the smallest valuse of the array.
 #include<iostream>
 #include<climits>
 using namespace std;
