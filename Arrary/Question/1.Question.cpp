@@ -1,4 +1,4 @@
-// 1.Write a program to traverse an array of integers and print each element
+// 1 Write a program to traverse an array of integers and print each element
 
 #include<iostream>
 using namespace std;
