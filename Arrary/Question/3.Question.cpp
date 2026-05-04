@@ -1,4 +1,4 @@
-// 2 Write a program or algorithm to find the Largest valuse of the array.
+// 3 Write a program to find the Largest valuse of the array.
 #include<iostream>
 #include<climits>
 using namespace std;
@@ -19,4 +19,4 @@ int main(){
      
     
     return 0;
-}
+} 
