@@ -1,6 +1,5 @@
 /* 8 Given an array of integers, rotating array of elements by k elements.
  */
-
 #include <iostream>
 using namespace std;
 
